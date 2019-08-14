@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sultan</string>
+    <string name="sultan_name">Nama Sultan</string>
+    <string name="from">Berkuasa</string>
+    <string name="hidup">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="about">About</string>
+    <string name="my_name">SULAIMAN</string>
+    <string name="email">sulaiman.abdurrouf@gmail.com</string>
+    <string name="Biografi">Biografi</string>
+    <string name="Berkuasa">Berkuasa</string>
+    <string name="tahuntahun">Tahun</string>
+    <string name="Pasangan">Pasangan</string>
+    <string name="Nama_is">Istri</string>
+</resources>
